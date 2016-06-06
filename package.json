@@ -1,0 +1,24 @@
+{
+  "name": "lego-real-sense",
+  "version": "1.0.0",
+  "description": "Demo for lego head linked to realsense intel mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GDG-Nantes/LegoRealSense.git"
+  },
+  "keywords": [
+    "intel",
+    "realsense",
+    "threejs"
+  ],
+  "author": "jefbinomed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GDG-Nantes/LegoRealSense/issues"
+  },
+  "homepage": "https://github.com/GDG-Nantes/LegoRealSense#readme"
+}
